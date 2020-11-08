@@ -1,5 +1,5 @@
 #!/usr/bin/python3
-# Usage: python3 main.py -e -s 7 source_file destination_file
+# Usage: python3 main.py -e -k key_here source_file destination_file
 
 import argparse
 from vigenere import VigenereCipher
